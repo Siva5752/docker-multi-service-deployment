@@ -1,0 +1,12 @@
+services:
+  web:
+    build: ./web-host
+    container_name: nginx-container
+    ports:
+      - "8080:80"
+  java:
+    build: ./java-app
+    container_name: java-container
+  maven:
+    build: ./maven-app
+    container_name: maven-container
