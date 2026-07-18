@@ -138,7 +138,7 @@ docker compose down
 
 ## Docker Compose Execution
 
-![Docker Compose](screenshots/docker-compose-up.png.jpeg)
+![Docker Compose](./docker-compose-up.png)
 
 Docker Compose starting all services.
 
@@ -146,7 +146,7 @@ Docker Compose starting all services.
 
 ## Running Containers
 
-![Docker Containers](screenshots/docker-ps.png.jpeg)
+![Docker Containers](./docker-ps.png)
 
 Shows the running Nginx container.
 
@@ -154,7 +154,7 @@ Shows the running Nginx container.
 
 ## Static Website
 
-![Website](screenshots/website.png.jpeg)
+![Website](./website.png)
 
 Website hosted successfully using the Nginx container.
 
